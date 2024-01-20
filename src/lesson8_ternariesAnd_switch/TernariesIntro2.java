@@ -12,6 +12,8 @@ public class TernariesIntro2 {
 
         String temp = (positive) ? "Positive" : (negative) ? "Negative" : "zero";
 
+        System.out.println(temp);
+
         System.out.println("-------------------------------------------------------------");
 
 
