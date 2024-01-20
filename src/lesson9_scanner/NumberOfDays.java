@@ -25,3 +25,20 @@ public class NumberOfDays {
         System.out.println(temp);
     }
 }
+/*
+Create a class named NumberOfDays. An integer variable named month is given
+        Use switch statement to write a program that can find the number of days in the given number of month.
+
+                EX:
+                    month = 5
+
+                output:
+                    31 days
+
+                (Assume that February has 28 days)
+
+            Hints:
+            	Months that has 31 days: 1, 3, 5, 7, 8, 10, 12
+                Months that has 30 days: 4, 6, 9, 11
+
+ */
