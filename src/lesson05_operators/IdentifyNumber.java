@@ -1,4 +1,4 @@
-package lesson06_ifStatements;
+package lesson05_operators;
 
 public class IdentifyNumber {
 

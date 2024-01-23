@@ -1,4 +1,4 @@
-package lesson10_customMethods;
+package lesson08_scanner;
 
 import java.util.Scanner;
 

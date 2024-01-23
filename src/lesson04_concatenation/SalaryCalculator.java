@@ -1,4 +1,4 @@
-package lesson05_operators;
+package lesson04_concatenation;
 
 public class SalaryCalculator {
 

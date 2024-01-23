@@ -1,4 +1,4 @@
-package lesson07_ternariesAnd_switch;
+package lesson06_ifStatements;
 
 public class FieldTrip {
 

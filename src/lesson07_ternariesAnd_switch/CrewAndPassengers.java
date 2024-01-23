@@ -1,4 +1,4 @@
-package lesson08_scanner;
+package lesson07_ternariesAnd_switch;
 
 public class CrewAndPassengers {
 

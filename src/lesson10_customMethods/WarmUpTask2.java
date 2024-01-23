@@ -1,6 +1,6 @@
-package lesson11_forLoop;
+package lesson10_customMethods;
 
-public class WarmUpTask {
+public class WarmUpTask2 {
 
     public static void main(String[] args) {
 
