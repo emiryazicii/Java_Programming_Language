@@ -1,3 +1,5 @@
+package lesson15_garbageCollection;
+
 import lesson14_customClass.Dog;
 
 public class GarbageCollection {
