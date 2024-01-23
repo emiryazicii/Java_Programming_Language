@@ -1,4 +1,4 @@
-package lesson11_forLoop;
+package lesson10_customMethods;
 
 public class MethodOverloadingPractice {
 
