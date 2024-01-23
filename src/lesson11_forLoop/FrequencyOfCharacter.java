@@ -1,4 +1,4 @@
-package lesson13_nestedLoop;
+package lesson11_forLoop;
 
 public class FrequencyOfCharacter {
 
