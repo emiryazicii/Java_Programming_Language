@@ -1,4 +1,6 @@
-package lesson15_garbageCollection;
+package lesson14_customClass;
+
+import lesson14_customClass.BankAccount;
 
 public class TestBankAccountObjects {
 

@@ -1,4 +1,6 @@
-package lesson15_garbageCollection;
+package lesson14_customClass;
+
+import lesson14_customClass.Pizza;
 
 public class TestPizzaObjects {
 

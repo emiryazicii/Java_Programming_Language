@@ -1,4 +1,4 @@
-package lesson15_garbageCollection;
+package lesson14_customClass;
 
 public class BankAccount {
 
