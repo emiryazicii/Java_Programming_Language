@@ -7,45 +7,45 @@ Topics:
 			- Multi-branch if
             - If statement without curly braces
             - Nested if
-            
-            
+
+
             Single If Statement: can be used for creating condition for one possible output
-            
+
             If & Else: when there are TWO (not more, not less than 2) options/possibilities/alternatives we need to create condition for
-                        
+
                         for 2 conditions
-            
-            
+
+
             Multi branch If: when there are three more options/possibilities/alternatives we need to create condition for
-                        
+
                         for three or more conditions
-                    
+
                     if(Condition1){
                         StatementA
-                    }esle if(Condition2){
+                    }else if(Condition2){
                         StatementB
                     }else if(Condition3){
                         StatementC
                     }else{
                         StatementD
                     }
-            
-            
+
+
                     ONLY one block gets executed
-            
+
                     StatementA: Condition1 is true
-            
+
                     StatementB: Condition1 MUST be false, condition2 is true
-            
+
                     StatementC: Condition1 & Condition2 MUST be false, condition3 is true
-            
+
                     StatementD: Condition1 & Condition2 & Condition3 must be false
-            
-            
-            Nested If: for pre conditions 
-            
-            
-            If statement without curly braces: 
+
+
+            Nested If: for pre conditions
+
+
+            If statement without curly braces:
                         without the curly braces the blocks of if statement can only have one statement in its body
 
 
