@@ -1,0 +1,26 @@
+Topics:
+
+              Operators
+
+			- Unary:  -, +, --, ++ (post/pre)
+			- Shorthand: =, +=, -=, *=, /=, %=
+			- Relational: >, < , <=, >=, ==, !=
+			- Logical: &&, ||, !
+
+
+arithmetic operators: +, -, *, /, %
+
+
+
+Positive Numbers:
+
+		+10 , +20
+		10, 20
+
+Negative Numbers:
+		-30, -20
+
+
+
+&&: both
+||: either
