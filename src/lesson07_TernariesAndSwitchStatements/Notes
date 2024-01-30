@@ -1,0 +1,77 @@
+Topics:
+
+        Ternary Operators
+		Switch
+
+
+single if: for one condition
+
+	if(Condition1){
+		StatementA
+	}
+
+	StatementA: Condition1 is true
+
+
+If & Else: for TWO condition ONLY
+
+	if(Condition1){
+		StatementA
+	}else{
+		StatementB
+	}
+
+
+	StatementA: Condition1 is true
+	StatementB: Condition1 is false
+
+
+		Yes or No
+		Pass or Failed
+		Odd or Even
+		Eligible or not eligible
+		employed or not employed
+		full time or part time
+		...
+
+
+Multi-branch if: for three or more conditions
+
+		if(Condition1){
+			A
+		}else if(Condition2){}
+			B
+		}else if(Condition3){}
+			C
+		}
+		...
+		else{
+			D
+		}
+
+		ONLY one block gets executed
+
+		A: Condition1 is true
+		B: Condition1 is false, Condition2 is true
+		C: Condition1 & 2 are false, Condition3 is true
+		D: all the previous conditions are false
+
+
+Nested If: for pre-conditions
+
+		if(Pre-Condition){
+
+			if(ConditionA){
+				A
+			}else{
+				B
+			}
+
+		}else{
+			C
+		}
+
+
+		A: Pre-Condition is true, ConditionA is true
+		B: Pre-Condition is true, ConditionA is false
+		C: Pre-Condition is false
