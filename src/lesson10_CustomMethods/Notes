@@ -1,0 +1,57 @@
+Topic:
+
+                Custom methods Intro
+				Void Methods
+				Parameters
+                Return Methods
+                Overloading
+
+
+Custom Methods:
+		1. Void methods
+		2. Parameters
+		3. Return Methods
+		4. Return with parameters
+		5. Method Overloading
+
+		Methods: grouping code fragments  ===> creating function
+
+
+        											MUST         MUST
+        		Access-Modifier   Specifier    Return-type    methodName(Parameter){
+
+        				Code fragments
+
+        		}
+
+
+        		Access Modifiers: public, protected, default, private
+
+        							public: ALWAYS ACCESSIBLE
+
+
+        		Specifiers: static, final, abstract, synchronized
+
+        					static: can be called through the class name
+
+
+        		Return-type: void, Any dataType
+
+        					void: does not return any value
+        					Any dataType: must return a value
+
+
+        		MethodName: meaningful, descriptive
+
+        		Parameters: Any Data Type
+
+
+        		MUST be declared inside the class and outside any other blocks/methods
+
+
+
+        Return statement: used for exiting (terminating) the current method
+        			we can also use it for returning value from return methods
+
+
+
