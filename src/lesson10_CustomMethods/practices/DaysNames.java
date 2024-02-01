@@ -1,4 +1,4 @@
 package lesson10_CustomMethods.practices;
 
-public class DaysName {
+public class DaysNames {
 }
