@@ -14,13 +14,9 @@ public class SumOfDigits {
     public static int sumOfDigits(String str) {
         int sum = 0;
 
-        for (int i = 0; i <= 9; i++) {
-            char c = (char) (i + '0');
-
-            for (int j = 0; j < str.length(); j++) {
-                if (str.charAt(j) == c) {
-                    sum += i;
-                }
+        for (int i = 0; i < str.length(); i++) {
+            if(Character.isDigit(str.charAt(i))){
+                sum += (str.charAt(i))-48;
             }
         }
         return sum;
