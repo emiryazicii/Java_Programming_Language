@@ -1,4 +1,4 @@
-package lesson10_CustomMethods.practices;
+package lesson11_ForLoop.practices;
 
 public class SortedOrder {
 
