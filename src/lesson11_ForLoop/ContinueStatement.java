@@ -40,7 +40,7 @@ public class ContinueStatement {
 
         System.out.println("----------------------------------------------------");
 
-        // find the sum of all the even number between 50 ~ 100
+        // print all the even number between 50 ~ 100
 
         for (int i = 50; i <101 ; i++) {
 
